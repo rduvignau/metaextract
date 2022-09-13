@@ -8,12 +8,12 @@ Here is experimental code for extracting and identifying title, series title and
 
 To build the datasets you need to use the following source files:
 * **Netflix**: You can download the original dataset there: https://drive.google.com/drive/folders/0B3cMrOhPT_6zOUNYNUdEN0ZFXzA?resourcekey=0-uh6TIA_pwOrRz9HlvEht9g
-  - Reference: * Andrew Reed and Michael Kranch. Identifying https-protected netflix
+  - Reference: _ Andrew Reed and Michael Kranch. Identifying https-protected netflix
 videos in real-time. In Proceedings of the Seventh ACM on Conference
-on Data and Application Security and Privacy, pages 361–368, 2017 *
+on Data and Application Security and Privacy, pages 361–368, 2017 _
 * **SVT**: You can download the original dataset there: https://drive.google.com/file/d/13ez6D9axWs-F-0xiHMnl91VI_pqr-grf/view?usp=sharing
-  - Reference: * Philip Antonsson, Martin Björklund, Tobias Hjalmarsson, Marcus Julin,
-Andreas Stenwreth, and Malte  Åkvist. Streaming video identification. Bachelor’s Thesis, Chalmers University of Technology, 2022 *
+  - Reference: _ Philip Antonsson, Martin Björklund, Tobias Hjalmarsson, Marcus Julin,
+Andreas Stenwreth, and Malte  Åkvist. Streaming video identification. Bachelor’s Thesis, Chalmers University of Technology, 2022 _
 
 Once downloaded in the same folder, you can generate the metainformation databases as follows:
 ```sh
