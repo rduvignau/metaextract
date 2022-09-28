@@ -11,7 +11,7 @@ To build the datasets you need to use the following source files:
   - Reference: _Andrew Reed and Michael Kranch. Identifying https-protected netflix
 videos in real-time. In Proceedings of the Seventh ACM on Conference
 on Data and Application Security and Privacy, pages 361–368, 2017._
-* **SVT**: You can download the original dataset there: https://drive.google.com/file/d/13ez6D9axWs-F-0xiHMnl91VI_pqr-grf/view?usp=sharing
+* **SVT**: You can download the original dataset there: https://drive.google.com/file/d/13ez6D9axWs-F-0xiHMnl91VI_pqr-grf/view?usp=sharing (updated datasets, and also including only videos accessible outside Sweden can be accessed there: https://github.com/embeage/streaming-identification)
   - Reference: _Philip Antonsson, Martin Björklund, Tobias Hjalmarsson, Marcus Julin,
 Andreas Stenwreth, and Malte  Åkvist. Streaming video identification. Bachelor’s Thesis, Chalmers University of Technology, 2022._
 
