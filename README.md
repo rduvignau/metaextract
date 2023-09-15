@@ -12,7 +12,7 @@ To build the datasets you need to use the following source files:
 videos in real-time. In Proceedings of the Seventh ACM on Conference
 on Data and Application Security and Privacy, pages 361–368, 2017._
 * **SVT**: You can download the original dataset there: https://drive.google.com/file/d/13ez6D9axWs-F-0xiHMnl91VI_pqr-grf/view?usp=sharing (updated datasets, and also including only videos accessible outside Sweden can be accessed there: https://github.com/embeage/streaming-identification)
-  - Reference: _M. Björklund, M. Julin, P. Antonsson, A. Stenwreth, M. Åkvist, T. Hjalmarsson, and R. Duvignau, “I see what you’re watching on your streaming service: Fast identification of dash encrypted network traces,” in 2023 20th IEEE Annual Consumer Communication & Networking Conference (CCNC). IEEE, 2023, forthcoming._
+  - Reference: _M. Björklund, M. Julin, P. Antonsson, A. Stenwreth, M. Åkvist, T. Hjalmarsson, and R. Duvignau, “I see what you’re watching on your streaming service: Fast identification of dash encrypted network traces,” in 2023 20th IEEE Annual Consumer Communication & Networking Conference (CCNC). IEEE, 2023, pp. 1116-1122._
 
 Once downloaded in the same folder, you can generate the metainformation databases as follows:
 ```sh
@@ -44,7 +44,7 @@ sklearn, numpy, matplotlib
 
 If used, please cite the following publication:
 
-_Romaric Duvignau. Metainformation Extraction from Encrypted Streaming Video Packet Traces. Proc. of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME), 16-18 November 2022, To be published._
+_Romaric Duvignau. Metainformation Extraction from Encrypted Streaming Video Packet Traces. Proc. of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME), 16-18 November 2022, pp. 1-6._
 
 ## Contact
 
